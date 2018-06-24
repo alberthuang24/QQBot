@@ -1,0 +1,29 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/hongjianghuang/phantomjs",
+			"repository": "https://github.com/hongjianghuang/phantomjs",
+			"vcs": "git",
+			"revision": "1b81734f7877b51cadd82ee32663ae88f630469c",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/hongjianghuang/pixterm",
+			"repository": "https://github.com/hongjianghuang/pixterm",
+			"vcs": "git",
+			"revision": "023cf20a5e9ec04da51aecb44a996554ac9a3f5c",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/lucasb-eyer/go-colorful",
+			"repository": "https://github.com/lucasb-eyer/go-colorful",
+			"vcs": "git",
+			"revision": "d9cec903b20cbeda6062366e460c2c1bdc717e4d",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
